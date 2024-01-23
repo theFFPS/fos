@@ -1,3 +1,16 @@
 include=Base
 include=Kernel
 include=Library
+task=build
+operation=included_start
+task=package
+require=build
+name=fOS
+type=cdr
+extension=iso
+in=Base
+task=run
+require=package
+qemuarch=amd64
+qemuintype=cdr
+qemuin=fOS
