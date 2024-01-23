@@ -1,0 +1,14 @@
+stage=build_start
+task=objects_gen
+path=$this_dir
+src=src
+obj=target
+extension=c
+language=c
+task=link
+path=$this_dir
+in=target
+out=target
+extension=o
+name=c
+type=libstatic,libdynamic
