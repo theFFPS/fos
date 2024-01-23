@@ -1,4 +1,4 @@
-stage=last
+stage=build_after,package_before
 task=symlink
 link=install
 root=$proj_base_dir
