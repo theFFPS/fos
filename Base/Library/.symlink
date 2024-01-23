@@ -1,4 +1,5 @@
-root=$proj_rt
+root=$proj_dir_lib
+mode=each
 name=lib
 path=target
 file=so,a
