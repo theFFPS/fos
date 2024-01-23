@@ -1,4 +1,4 @@
 # fOS
 # File Structure
  [Libraries](Library)
- * [libc based on [musl](https://github.com/bminor/musl)](Library/LibC)
+ * [libc](Library/LibC) based on [musl](https://github.com/bminor/musl)
