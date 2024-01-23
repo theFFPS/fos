@@ -1,0 +1,4 @@
+#ifdef __bool_true_false_are_defined
+#undef __bool_true_false_are_defined
+#endif
+#define __bool_true_false_are_defined
