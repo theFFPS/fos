@@ -1,0 +1,9 @@
+name=lib
+path=target
+file=so,a
+name=include
+path=inc
+file=<all>
+name=docs
+path=docs
+file=<all>
