@@ -1,3 +1,4 @@
+root=$proj_rt
 name=lib
 path=target
 file=so,a
